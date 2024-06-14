@@ -1,3 +1,4 @@
+# TODO: account for half stars, description, misc items, individual pages, perks, mods, and other stats
 from bs4 import BeautifulSoup
 import requests
 from urllib3.exceptions import InsecureRequestWarning
@@ -148,3 +149,10 @@ def create_json_from_row(row):
     else:
         return create_armor_json_from_row(row)
 
+
+
+def get_item_by_id(id):
+    return
+
+def get_item_by_name(name):
+    return
