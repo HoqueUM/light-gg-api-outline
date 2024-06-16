@@ -1,0 +1,10 @@
+{
+    "Rariety": {
+        "1": "Unknown",
+        "2": "Common",
+        "3": "Uncommon",
+        "4": "Rare",
+        "5": "Legendary",
+        "6": "Exotic"
+    }
+}

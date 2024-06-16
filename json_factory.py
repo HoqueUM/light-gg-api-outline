@@ -1,3 +1,4 @@
+# TODO: armor is different. this will need to be adjust for armor.
 import json
 import re
 from bs4 import BeautifulSoup
@@ -19,13 +20,13 @@ def json_factory(item_id, export_json=False):
 
     match = re.search(r'var rollData = (.*?);', script, re.DOTALL)
     rollData_string = match.group(1)
-    split = rollData_string.split('ItemDefs: ')[1].split(',"Localization":{}}')
-    final = split[0] + '}'
-
-    rollData = json.loads(final)
+    presplit = rollData_string.split('ItemDefs: ')[0].split('Raw:')[1]
+    
+    presplit = presplit.rstrip().rstrip(',')
+    data = json.loads(presplit)
     
     if export_json:
         with open(f'{item_id}_rollData.json', 'w') as f:
-            json.dump(rollData, f, indent=4)
+            json.dump(data, f, indent=4)
     
-    return rollData
+    return data
