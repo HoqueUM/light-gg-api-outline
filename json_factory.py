@@ -7,11 +7,17 @@ from urllib3.exceptions import InsecureRequestWarning
 from urllib3 import disable_warnings
 from fake_useragent import UserAgent
 disable_warnings(InsecureRequestWarning)
+from SiteMethods import GetItem
 
-def json_factory(item_id, export_json=False):
+def json_factory(item_id, export_json=False, is_name=False):
     ua = str(UserAgent().random)
     headers = {'User-Agent': ua}
-    url = f"https://www.light.gg/db/items/{item_id}/"
+    if is_name:
+        item = GetItem()
+        id = item.get_id_by_name(item_id)
+        url = f"https://www.light.gg/db/items/{id}/"
+    else:
+        url = f"https://www.light.gg/db/items/{item_id}/"
     html = requests.get(url, headers=headers, verify=False)
     soup = BeautifulSoup(html.text, 'html.parser')
     scripts = soup.find_all('script')
