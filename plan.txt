@@ -1,0 +1,9 @@
+Ok. So we have an excel sheet that has the data for pretty much every relevant weapon in the game.
+The individual sheets by weapon type contain ratings for the specific traits of each weapon (ttk, dmg, etc)
+There is one sheet that is specific for just perk data. This one will be used to adjust the rating of a weapon (assuming only increase?)
+With given weapon data from the hash constants that we have, we can devlop an algorithm to predict the value of an item.
+
+Given:
+1. Weapon's default rating (based on ttk/dmg/etc)
+2. The adjusted rating based on the perks the item has
+3. Maybe adjust it even more based on rarity? (if this is available) -> maybe on light.gg
