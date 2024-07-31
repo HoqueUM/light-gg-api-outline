@@ -1,0 +1,576 @@
+{
+    "ItemHash": 568611922,
+    "Class": 3,
+    "Name": "The Mountaintop",
+    "Description": "",
+    "ItemTypeDisplayName": "Grenade Launcher",
+    "IconPath": "/common/destiny2_content/icons/0c9b678fd92974726f166d42cda1774c.jpg",
+    "ScreenshotPath": "/common/destiny2_content/screenshots/568611922.jpg",
+    "HasIcon": false,
+    "Tier": 5,
+    "CurrentVersion": 0,
+    "PowerCaps": [
+        999990
+    ],
+    "DisplayVersionWatermarkIcons": [
+        "/common/destiny2_content/icons/d5a3f4d7d20fefc781fea3c60bde9434.png"
+    ],
+    "DamageType": 1,
+    "Slot": 0,
+    "AmmoType": 2,
+    "IsClassified": false,
+    "MinSeasonID": 23,
+    "SocketCategories": {
+        "3956125808": [
+            0
+        ],
+        "4241085061": [
+            1,
+            2,
+            3,
+            4,
+            8
+        ],
+        "2048875504": [
+            5
+        ],
+        "2685412949": [
+            6,
+            7,
+            10,
+            11,
+            12
+        ],
+        "3583996951": [
+            9
+        ]
+    },
+    "CollectibleSourceHint": "Source: Into the Light",
+    "Stats": [
+        {
+            "StatHash": 3555269338,
+            "Value": 13,
+            "Scalable": true
+        },
+        {
+            "StatHash": 4284893193,
+            "Value": 90,
+            "Scalable": true
+        },
+        {
+            "StatHash": 3614673599,
+            "Value": 100,
+            "Scalable": true
+        },
+        {
+            "StatHash": 2523465841,
+            "Value": 75,
+            "Scalable": true
+        },
+        {
+            "StatHash": 155624089,
+            "Value": 23,
+            "Scalable": true
+        },
+        {
+            "StatHash": 3871231066,
+            "Value": 1,
+            "Scalable": true
+        },
+        {
+            "StatHash": 4188031367,
+            "Value": 63,
+            "Scalable": true
+        },
+        {
+            "StatHash": 1931675084,
+            "Value": 61,
+            "Scalable": false
+        },
+        {
+            "StatHash": 943549884,
+            "Value": 69,
+            "Scalable": true
+        },
+        {
+            "StatHash": 1345609583,
+            "Value": 75,
+            "Scalable": true
+        },
+        {
+            "StatHash": 2715839340,
+            "Value": 62,
+            "Scalable": true
+        },
+        {
+            "StatHash": 2714457168,
+            "Value": 32,
+            "Scalable": true
+        }
+    ],
+    "RPM": 90,
+    "CuratedRolls": [
+        [
+            {
+                "ItemHash": 981914802,
+                "Name": "Hard Launch",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/8bedf618841b334417b8f95c2aa35d57.png",
+                "PrefMode": null
+            }
+        ],
+        [
+            {
+                "ItemHash": 3301904089,
+                "Name": "Spike Grenades",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/05302d5b12e5f68541622766f18d3797.png",
+                "PrefMode": "pve"
+            }
+        ],
+        [
+            {
+                "ItemHash": 1556840489,
+                "Name": "Lead from Gold",
+                "EnhancedItemHash": 3442762221,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/87f6cac4799cbae4e11ba74d3dc77504.png",
+                "PrefMode": null
+            }
+        ],
+        [
+            {
+                "ItemHash": 4049631843,
+                "Name": "One for All",
+                "EnhancedItemHash": 859780267,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/b1bce269c3cd21393131b4f5cffae692.png",
+                "PrefMode": null
+            }
+        ],
+        [
+            {
+                "ItemHash": 2489430594,
+                "Name": "Indomitability",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/82a2dd97afec22865d0a1098c1de59ff.png",
+                "PrefMode": null
+            }
+        ]
+    ],
+    "RandomRolls": [
+        [
+            {
+                "ItemHash": 3798852852,
+                "Name": "Smart Drift Control",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/5c9fe3f49086b4d6cecc3431751edc02.png",
+                "PrefMode": ""
+            },
+            {
+                "ItemHash": 3525010810,
+                "Name": "Quick Launch",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/dfad5d8b00b79c4393943b791a624874.png",
+                "PrefMode": ""
+            },
+            {
+                "ItemHash": 1441682018,
+                "Name": "Linear Compensator",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/5059f4059a4c59d0003f8fedf8987b78.png",
+                "PrefMode": ""
+            },
+            {
+                "ItemHash": 981914802,
+                "Name": "Hard Launch",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/8bedf618841b334417b8f95c2aa35d57.png",
+                "PrefMode": null
+            },
+            {
+                "ItemHash": 3809316345,
+                "Name": "Countermass",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/6fda396e0f2fa3c2eceac79e39f9c44b.png",
+                "PrefMode": null
+            },
+            {
+                "ItemHash": 1844523823,
+                "Name": "Confined Launch",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/0a783b44bf9fc49b4bed0a93dfa21d5d.png",
+                "PrefMode": null
+            },
+            {
+                "ItemHash": 1478423395,
+                "Name": "Volatile Launch",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/d255c9140cf640cfc820f995d1c1e96a.png",
+                "PrefMode": null
+            }
+        ],
+        [
+            {
+                "ItemHash": 3492396210,
+                "Name": "Implosion Rounds",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/3ec484f0a65df7da9bbc5582c708574b.png",
+                "PrefMode": null
+            },
+            {
+                "ItemHash": 2822142346,
+                "Name": "High-Velocity Rounds",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/2a2b757cd73305126990cd19ad011a2c.png",
+                "PrefMode": ""
+            },
+            {
+                "ItemHash": 3301904089,
+                "Name": "Spike Grenades",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/05302d5b12e5f68541622766f18d3797.png",
+                "PrefMode": "pve"
+            },
+            {
+                "ItemHash": 3373736292,
+                "Name": "Sticky Grenades",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/c2daa7ba870ad24bca0c6c1d2ac5db74.png",
+                "PrefMode": "pvp"
+            }
+        ],
+        [
+            {
+                "ItemHash": 2682205016,
+                "Name": "Overflow",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": 3643424744,
+                "Tier": 3,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/3165fec56b59363fa974a11f5730f4ec.png",
+                "PrefMode": "pve"
+            },
+            {
+                "ItemHash": 3528046508,
+                "Name": "Auto-Loading Holster",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": 3300816228,
+                "Tier": 3,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/e4262099a1c2cea78b48a6680c5248c9.png",
+                "PrefMode": ""
+            },
+            {
+                "ItemHash": 1942880504,
+                "Name": "Slickdraw",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": 1821614984,
+                "Tier": 3,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/7a8adea665184eea0fc7f6b6e62a2e4a.png",
+                "PrefMode": null
+            },
+            {
+                "ItemHash": 3442762221,
+                "Name": "Lead from Gold",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": 1556840489,
+                "Tier": 3,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/87f6cac4799cbae4e11ba74d3dc77504.png",
+                "PrefMode": null
+            },
+            {
+                "ItemHash": 1906147653,
+                "Name": "Demolitionist",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": 3523296417,
+                "Tier": 3,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/da009697110e06b65d6f827b3b6d5f70.png",
+                "PrefMode": null
+            },
+            {
+                "ItemHash": 3878366039,
+                "Name": "Impulse Amplifier",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": 951095735,
+                "Tier": 3,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/85269cc90d2005ccd6a41b5d830e223d.png",
+                "PrefMode": "pvp"
+            },
+            {
+                "ItemHash": 3797647183,
+                "Name": "Ambitious Assassin",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": 2010801679,
+                "Tier": 3,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/1f93b49c7f10b1be70083f913a3c5d63.png",
+                "PrefMode": "pve"
+            },
+            {
+                "ItemHash": 3643424744,
+                "Name": "Overflow",
+                "EnhancedItemHash": 2682205016,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/3165fec56b59363fa974a11f5730f4ec.png",
+                "PrefMode": "pve"
+            },
+            {
+                "ItemHash": 3300816228,
+                "Name": "Auto-Loading Holster",
+                "EnhancedItemHash": 3528046508,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/e4262099a1c2cea78b48a6680c5248c9.png",
+                "PrefMode": ""
+            },
+            {
+                "ItemHash": 1821614984,
+                "Name": "Slickdraw",
+                "EnhancedItemHash": 1942880504,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/7a8adea665184eea0fc7f6b6e62a2e4a.png",
+                "PrefMode": null
+            },
+            {
+                "ItemHash": 1556840489,
+                "Name": "Lead from Gold",
+                "EnhancedItemHash": 3442762221,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/87f6cac4799cbae4e11ba74d3dc77504.png",
+                "PrefMode": null
+            },
+            {
+                "ItemHash": 3523296417,
+                "Name": "Demolitionist",
+                "EnhancedItemHash": 1906147653,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/da009697110e06b65d6f827b3b6d5f70.png",
+                "PrefMode": null
+            },
+            {
+                "ItemHash": 951095735,
+                "Name": "Impulse Amplifier",
+                "EnhancedItemHash": 3878366039,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/85269cc90d2005ccd6a41b5d830e223d.png",
+                "PrefMode": "pvp"
+            },
+            {
+                "ItemHash": 2010801679,
+                "Name": "Ambitious Assassin",
+                "EnhancedItemHash": 3797647183,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/1f93b49c7f10b1be70083f913a3c5d63.png",
+                "PrefMode": "pve"
+            }
+        ],
+        [
+            {
+                "ItemHash": 3007133316,
+                "Name": "Frenzy",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": 4104185692,
+                "Tier": 3,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/23e06f4ced1b3e6476f342978ff5bb37.png",
+                "PrefMode": "pve"
+            },
+            {
+                "ItemHash": 3335686050,
+                "Name": "Recombination",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": 469285294,
+                "Tier": 3,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/6f61697efee46bbd14e712deb5f07dc4.png",
+                "PrefMode": ""
+            },
+            {
+                "ItemHash": 2748801589,
+                "Name": "Harmony",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": 438098033,
+                "Tier": 3,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/37f787e53bf9589f03c0e2f7e18b3736.png",
+                "PrefMode": "pvp"
+            },
+            {
+                "ItemHash": 859780267,
+                "Name": "One for All",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": 4049631843,
+                "Tier": 3,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/b1bce269c3cd21393131b4f5cffae692.png",
+                "PrefMode": null
+            },
+            {
+                "ItemHash": 2422968039,
+                "Name": "Adrenaline Junkie",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": 11612903,
+                "Tier": 3,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/6f8bde03140b53e6dc583ada1aeaa51d.png",
+                "PrefMode": null
+            },
+            {
+                "ItemHash": 3418165135,
+                "Name": "Vorpal Weapon",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": 1546637391,
+                "Tier": 3,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/bc5130b227ee577f2678ec2d2c97bf4a.png",
+                "PrefMode": "pve"
+            },
+            {
+                "ItemHash": 288411554,
+                "Name": "Rampage",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": 3425386926,
+                "Tier": 3,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/8976ead57430e4f5f8af1b3005de4f83.png",
+                "PrefMode": null
+            },
+            {
+                "ItemHash": 4104185692,
+                "Name": "Frenzy",
+                "EnhancedItemHash": 3007133316,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/23e06f4ced1b3e6476f342978ff5bb37.png",
+                "PrefMode": "pve"
+            },
+            {
+                "ItemHash": 469285294,
+                "Name": "Recombination",
+                "EnhancedItemHash": 3335686050,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/6f61697efee46bbd14e712deb5f07dc4.png",
+                "PrefMode": ""
+            },
+            {
+                "ItemHash": 438098033,
+                "Name": "Harmony",
+                "EnhancedItemHash": 2748801589,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/37f787e53bf9589f03c0e2f7e18b3736.png",
+                "PrefMode": "pvp"
+            },
+            {
+                "ItemHash": 4049631843,
+                "Name": "One for All",
+                "EnhancedItemHash": 859780267,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/b1bce269c3cd21393131b4f5cffae692.png",
+                "PrefMode": null
+            },
+            {
+                "ItemHash": 11612903,
+                "Name": "Adrenaline Junkie",
+                "EnhancedItemHash": 2422968039,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/6f8bde03140b53e6dc583ada1aeaa51d.png",
+                "PrefMode": null
+            },
+            {
+                "ItemHash": 1546637391,
+                "Name": "Vorpal Weapon",
+                "EnhancedItemHash": 3418165135,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/bc5130b227ee577f2678ec2d2c97bf4a.png",
+                "PrefMode": "pve"
+            },
+            {
+                "ItemHash": 3425386926,
+                "Name": "Rampage",
+                "EnhancedItemHash": 288411554,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/8976ead57430e4f5f8af1b3005de4f83.png",
+                "PrefMode": null
+            }
+        ],
+        [
+            {
+                "ItemHash": 2489430594,
+                "Name": "Indomitability",
+                "EnhancedItemHash": null,
+                "EnhancedVersionOfItemHash": null,
+                "Tier": 2,
+                "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/82a2dd97afec22865d0a1098c1de59ff.png",
+                "PrefMode": null
+            }
+        ]
+    ],
+    "Intrinsics": [
+        {
+            "ItemHash": 3758615625,
+            "Name": "Micro-Missile Frame",
+            "ImageURL": "https://www.bungie.net/common/destiny2_content/icons/805b05505825f3bf07a383c75ee10a63.png",
+            "PrefMode": null,
+            "Tier": 5,
+            "EnhancedItemHash": null,
+            "NormalItemHash": null,
+            "Stats": []
+        }
+    ],
+    "RetiredPlugItemHashes": [
+        [],
+        [],
+        [
+            3797647183,
+            3878366039,
+            1906147653,
+            3442762221,
+            1942880504,
+            3528046508,
+            2682205016
+        ],
+        [
+            288411554,
+            3418165135,
+            2422968039,
+            859780267,
+            2748801589,
+            3335686050,
+            3007133316
+        ],
+        null
+    ]
+}
